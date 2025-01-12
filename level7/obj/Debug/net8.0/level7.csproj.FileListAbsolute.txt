@@ -1,0 +1,14 @@
+/Users/ryan/Dev/playersguide/level7/bin/Debug/net8.0/level7
+/Users/ryan/Dev/playersguide/level7/bin/Debug/net8.0/level7.deps.json
+/Users/ryan/Dev/playersguide/level7/bin/Debug/net8.0/level7.runtimeconfig.json
+/Users/ryan/Dev/playersguide/level7/bin/Debug/net8.0/level7.dll
+/Users/ryan/Dev/playersguide/level7/bin/Debug/net8.0/level7.pdb
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/level7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/level7.AssemblyInfoInputs.cache
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/level7.AssemblyInfo.cs
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/level7.csproj.CoreCompileInputs.cache
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/level7.dll
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/refint/level7.dll
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/level7.pdb
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/level7.genruntimeconfig.cache
+/Users/ryan/Dev/playersguide/level7/obj/Debug/net8.0/ref/level7.dll
